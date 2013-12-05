@@ -1,0 +1,5 @@
+name: KubeloxAPI
+version: 1.0
+main: info.kubelox.Kubelox
+author: Kubelox
+description: Framework for Kubelox Premium Plugins (Kubelox.com)
