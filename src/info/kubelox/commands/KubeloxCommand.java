@@ -22,4 +22,10 @@ public class KubeloxCommand extends KubeloxComandHandler {
 
 		return true;
 	}
+	
+	@Override
+	public boolean commandServer(Server server, String[] args)
+	{
+		// TODO: For every user online send the messages.
+	}
 }
