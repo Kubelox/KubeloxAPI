@@ -41,7 +41,7 @@ Frequently asked questions: (Formally known as FAQ's)
 
 Q: Will other bukkit plugins work with Kubelox?
 
-A: The simple answer is some will and some won't. Kubelox from an API standpoint as well as it's library of plugins are designed to interlink with each other, and to work perfectly coinciding. Other plugins will obviously work with the server as we will not be putting any precautions to stop other plugins - but we can not be held responsible for them not working 100% for them clashing with out plugins. Any plugins that require permissions to work will not work as all our permissions will be stored internally and won't work with outside plugins.
+A: The simple answer is some will and some won't. Kubelox from an API standpoint as well as it's library of plugins are designed to interlink with each other, and to work perfectly coinciding. Other plugins will obviously work with the server as we will not be putting any precautions to stop other plugins - but we can not be held responsible for them not working 100% for them clashing with our plugins. Any plugins that require permissions to work will not work as all our permissions will be stored internally and won't work with outside plugins.
 
 Q: Is MySQL required?
 
