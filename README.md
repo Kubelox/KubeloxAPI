@@ -40,13 +40,17 @@ Frequently asked questions: (Formally known as FAQ's)
 ---------------------------
 
 Q: Will other bukkit plugins work with Kubelox?
+
 A: The simple answer is some will and some won't. Kubelox from an API standpoint as well as it's library of plugins are designed to interlink with each other, and to work perfectly coinciding. Other plugins will obviously work with the server as we will not be putting any precautions to stop other plugins - but we can not be held responsible for them not working 100% for them clashing with out plugins. Any plugins that require permissions to work will not work as all our permissions will be stored internally and won't work with outside plugins.
 
 Q: Is MySQL required?
+
 A: Yes, Most of our plugins will rely on an extensive use of MySQL to store all the information efficiently and easily. This is one way of all our plugins working together and a good way of us making it easy to alter your server configurations by storing them in a database rather than in an array of files.
 
 Q: Will there ever be a file based version? (Rather than MySQL)
+
 A: I don't want to say no, but with the increasing support for MySQL throughout the Bukkit community - I do find it hard to understand why we would go through the added stress of making a file version. So the answer is going to be possibly, if the demand is high enough.
 
 Q: How do I setup my server to use Kubelox?
+
 A: It's pretty simple in the whole scheme of things, Little knowledge is required and if you honestly don't have a clue how to set it up after reading the extensive written support - then you can get on the support line and one of our helpful staff will take you from start to finish. Read [this page]() for indepth instructions!
